@@ -2,6 +2,8 @@
 
 Memirror is an experimental memory layer for coding agents that preserves user and project context across sessions.
 
+<img src="https://i.imgflip.com/1otri4.jpg" width="200" style="max-width:100%" />
+
 ## Install
 
 Copy the contents of [`src/MEMIRROR.md`](./src/MEMIRROR.md) into your main agent instruction file such as `AGENTS.md` or `CLAUDE.md`.
