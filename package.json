@@ -1,0 +1,26 @@
+{
+  "name": "memirror",
+  "version": "0.0.1",
+  "description": "A general purpose memory system for coding agents",
+  "keywords": [
+    "agent",
+    "agents",
+    "memory",
+    "ai"
+  ],
+  "homepage": "https://github.com/giuseppeg/memirror#readme",
+  "bugs": {
+    "url": "https://github.com/giuseppeg/memirror/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giuseppeg/memirror.git"
+  },
+  "license": "MIT",
+  "author": "Giuseppe Gurgone",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
